@@ -1,7 +1,7 @@
 dynamicsites
 ============
 
-By UYSRC <http://www.uysrc.com/>
+This is a fork of the fantastic original django-dynamicsites project by UYSRC <http://www.uysrc.com/>
 
 Host multiple sites from a single django project 
 
